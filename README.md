@@ -28,7 +28,7 @@ B. December contributed significantly, constituting 13.67% of the total Qty Orde
 C. Qty Ordered ranged from 15,918 to 42,290 across all 12 months.
 
 4. Product Line Trend Analysis
-# Noteworthy Trend in Sports
+Noteworthy Trend in Sports
 Sport wears: Displayed an intriguing upward trend since 2017, witnessing a remarkable rise of 48.13% (5,738) in Qty Ordered over four years.
 
 Conclusion
