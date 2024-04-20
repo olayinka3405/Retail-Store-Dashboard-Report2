@@ -27,9 +27,9 @@ Average Qty Ordered by Customer Status
 
 ## 3. Monthly Qty Ordered Analysis
 # December Highlights for Qty Ordered
-- A. December recorded the highest Qty Ordered (42,290), representing a 165.67% increase compared to the lowest month, September (15,918).
-- B. December contributed significantly, constituting 13.67% of the total Qty Ordered.
-- C. Qty Ordered ranged from 15,918 to 42,290 across all 12 months.
+- December recorded the highest Qty Ordered (42,290), representing a 165.67% increase compared to the lowest month, September (15,918).
+- December contributed significantly, constituting 13.67% of the total Qty Ordered.
+- Qty Ordered ranged from 15,918 to 42,290 across all 12 months.
 
 ## 4. Product Line Trend Analysis
 Noteworthy Trend in Sports
