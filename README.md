@@ -13,19 +13,23 @@ In December, Product Line Sport wears constituted 4.09% of Qty Ordered, while Sp
 
 ## 2. Customer Status Category Analysis
 Top Customer Status Categories
-Silver: Led in total Qty Ordered (92,541), followed by Gold (88,278) and Platinum (4,194).
+- Silver: Led in total Qty Ordered (92,541),
+- followed by Gold (88,278)
+- and Platinum (4,194).
 
 December Highlights
 In December, Silver accounted for 4.86% of Qty Ordered.
 
-## Average Qty Ordered by Customer Status
-Silver had the highest average Qty Ordered (7,711.75), followed by Gold (7,356.50) and Platinum (349.50).
+Average Qty Ordered by Customer Status
+- Silver had the highest average Qty Ordered (7,711.75),
+- followed by Gold (7,356.50)
+- and Platinum (349.50).
 
 ## 3. Monthly Qty Ordered Analysis
 December Peaks
-A. December recorded the highest Qty Ordered (42,290), representing a 165.67% increase compared to the lowest month, September (15,918).
-B. December contributed significantly, constituting 13.67% of the total Qty Ordered.
-C. Qty Ordered ranged from 15,918 to 42,290 across all 12 months.
+- A. December recorded the highest Qty Ordered (42,290), representing a 165.67% increase compared to the lowest month, September (15,918).
+- B. December contributed significantly, constituting 13.67% of the total Qty Ordered.
+- C. Qty Ordered ranged from 15,918 to 42,290 across all 12 months.
 
 ## 4. Product Line Trend Analysis
 Noteworthy Trend in Sports
