@@ -5,8 +5,8 @@ The sales analysis dashboard for the retail store from 2017 to 2021 provides val
 ## 1. Product Line Analysis
 Highest Performing Product Lines
 
-A. Sport Wears: Emerged as the top-performing product line with the highest total Qty Ordered (75,880).
-B. Clothes & Shoes, Outdoors, and Children: Followed closely in terms of total Qty Ordered.
+- A. Sport Wears: Emerged as the top-performing product line with the highest total Qty Ordered (75,880).
+- B. Clothes & Shoes, Outdoors, and Children: Followed closely in terms of total Qty Ordered.
 
 December Highlights for Sports
 In December, Product Line Sport wears constituted 4.09% of Qty Ordered, while Sport wears exhibited the highest average Qty Ordered (6,323.33) among all product lines.
