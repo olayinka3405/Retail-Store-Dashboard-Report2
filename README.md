@@ -1,5 +1,5 @@
 # Retail-Store-Dashboard-Report-2
-The sales analysis dashboard for the retail store from 2017 to 2021 provides valuable insights into product performance and customer behavior.
+The sales analysis dashboard for the retail store from 2017 to 2021 provides valuable insights into product performance and customer behavior- https://github.com/olayinka3405/Retail-Store-Dashboard-Report2/blob/main/Sales%20Analysis%20Dashboard.png
 
 Summary Report
 1. Product Line Analysis
