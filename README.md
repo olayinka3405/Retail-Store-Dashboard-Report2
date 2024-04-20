@@ -18,7 +18,7 @@ Top Customer Status Categories
 - and Platinum (4,194).
 
 # December Highlights
-In December, Silver accounted for 4.86% of Qty Ordered.
+In December, Silver accounted for 48.6% of Qty Ordered.
 
 Average Qty Ordered by Customer Status
 - Silver had the highest average Qty Ordered (7,711.75),
