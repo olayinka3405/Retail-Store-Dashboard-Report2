@@ -8,7 +8,7 @@ Highest Performing Product Lines
 - A. Sport Wears: Emerged as the top-performing product line with the highest total Qty Ordered (75,880).
 - B. Clothes & Shoes, Outdoors, and Children: Followed closely in terms of total Qty Ordered.
 
- December Highlights for Sports
+# December Highlights for Sports
 In December, Product Line Sport wears constituted 4.09% of Qty Ordered, while Sport wears exhibited the highest average Qty Ordered (6,323.33) among all product lines.
 
 ## 2. Customer Status Category Analysis
@@ -17,7 +17,7 @@ Top Customer Status Categories
 - followed by Gold (88,278),
 - and Platinum (4,194).
 
-December Highlights
+# December Highlights
 In December, Silver accounted for 4.86% of Qty Ordered.
 
 Average Qty Ordered by Customer Status
@@ -26,7 +26,7 @@ Average Qty Ordered by Customer Status
 - and Platinum (349.50).
 
 ## 3. Monthly Qty Ordered Analysis
-December Peaks
+# December Highlights for Qty Ordered
 - A. December recorded the highest Qty Ordered (42,290), representing a 165.67% increase compared to the lowest month, September (15,918).
 - B. December contributed significantly, constituting 13.67% of the total Qty Ordered.
 - C. Qty Ordered ranged from 15,918 to 42,290 across all 12 months.
